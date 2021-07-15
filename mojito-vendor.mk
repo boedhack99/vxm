@@ -1537,10 +1537,12 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     QtiTelephonyService \
     datastatusnotification \
+    DeviceInfo \
     embms \
     WfdService \
     dpmserviceapp \
     ims \
+    imssettings \
     qcrilmsgtunnel \
     WfdCommon \
     tcmclient \
